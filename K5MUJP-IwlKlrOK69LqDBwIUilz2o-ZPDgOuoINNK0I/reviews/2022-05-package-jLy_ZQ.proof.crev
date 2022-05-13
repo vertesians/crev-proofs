@@ -1,0 +1,24 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-05-13T09:32:53.855989146+05:30"
+from:
+  id-type: crev
+  id: K5MUJP-IwlKlrOK69LqDBwIUilz2o-ZPDgOuoINNK0I
+  url: "https://github.com/vertesians/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: rle_vec
+  version: 0.4.1
+  revision: 6f215bfb8501a905bfb142784196254b8346e15f
+  digest: 5ENNn3aQd3CQZy2DZQEwfgnlcFJ_KqFYlr4u0NBTztU
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: positive
+comment: |-
+  Went through the package and checked the code for security issues.
+----- SIGN CREV PROOF -----
+jQuZzfBSEIHE85OST5wqEzKh2cD4OXVkor2Qkvuyy73oRT6hVLbeBE7_WQGQc7sukWkNKjwOAr_pncV4yQgNCg
+----- END CREV PROOF -----
+
